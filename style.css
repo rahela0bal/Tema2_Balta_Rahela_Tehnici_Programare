@@ -1,0 +1,35 @@
+.primul_buton{
+    background-color: #EF9FEC;
+    color: white;
+    padding: 35px;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 48px;
+    color: #000;
+}
+
+.model_google {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  p {
+    font-size: 24px;
+    color: #555;
+}
+.doilea_button {
+    background-color: #CFC6CF; 
+    color: #ED6033;
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 10px; 
+    font-size: 18px; 
+    cursor: pointer; 
+    display: flex; 
+    align-items: center;
+}
